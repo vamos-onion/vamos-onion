@@ -1,5 +1,7 @@
 #### Gopher in South Korea
 
+Now working on DTx service company as backend developer.
+
 <!--
 **vamos-onion/vamos-onion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
